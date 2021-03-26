@@ -26,7 +26,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
 ![WebStorm](https://img.shields.io/badge/-WebStorm-1496FF?style=flat&logo=WebStorm&logoColor=white)&nbsp;
 ![DataGrip](https://img.shields.io/badge/-DataGrip-632CA6?style=flat)&nbsp;
-![MongoDB Compass](https://img.shields.io/badge/-MongoDB%20Compass-ffffff?style=flat&logo=MongoDb)&nbsp;
+![Compass](https://img.shields.io/badge/-Compass-ffffff?style=flat&logo=MongoDb)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=Figma&logoColor=white)&nbsp;
 
