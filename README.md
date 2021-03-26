@@ -27,7 +27,6 @@
 ![WebStorm](https://img.shields.io/badge/-WebStorm-1496FF?style=flat&logo=WebStorm&logoColor=white)&nbsp;
 ![DataGrip](https://img.shields.io/badge/-DataGrip-632CA6?style=flat)&nbsp;
 ![Compass](https://img.shields.io/badge/-Compass-ffffff?style=flat&logo=MongoDb)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=Figma&logoColor=white)&nbsp;
 
 ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-FF9900?style=flat&logo=Amazon%20AWS)&nbsp;
