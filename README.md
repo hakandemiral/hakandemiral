@@ -1,4 +1,5 @@
 
+
 ## 👋 &nbsp;Hey there! I'm Hakan
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -10,30 +11,30 @@
 
 ### 🛠 &nbsp;My tech stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=Redux&logoColor=764ABC)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=Redux&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)&nbsp;
 
 ![HTML](https://img.shields.io/badge/-HTML-e34c26?style=flat&logo=HTML5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=wh,te)&nbsp;
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=SASS&logoColor=white)&nbsp;
 ![Gulp](https://img.shields.io/badge/-Gulp-CF4647?style=flat&logo=Gulp&logoColor=white)&nbsp;
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![WebStorm](https://img.shields.io/badge/-WebStorm-333333?style=flat&logo=WebStorm&logoColor=green)&nbsp;
-![DataGrip](https://img.shields.io/badge/-DataGrip-333333?style=flat)&nbsp;
-![MongoDB Compass](https://img.shields.io/badge/-MongoDB%20Compass-333333?style=flat)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
+![WebStorm](https://img.shields.io/badge/-WebStorm-1496FF?style=flat&logo=WebStorm&logoColor=white)&nbsp;
+![DataGrip](https://img.shields.io/badge/-DataGrip-632CA6?style=flat)&nbsp;
+![MongoDB Compass](https://img.shields.io/badge/-MongoDB%20Compass-ffffff?style=flat&logo=MongoDb)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=Figma&logoColor=white)&nbsp;
 
-![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-333333?style=flat&logo=Amazon%20AWS)&nbsp;
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=Google%20Cloud)&nbsp;
+![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-FF9900?style=flat&logo=Amazon%20AWS)&nbsp;
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=Google%20Cloud&logoColor=white)&nbsp;
 ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=Vercel)&nbsp;
-![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-333333?style=flat&logo=DigitalOcean)&nbsp;
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-333333?style=flat&logo=Cloudflare)&nbsp;
+![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-0080FF?style=flat&logo=DigitalOcean&logoColor=white)&nbsp;
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)&nbsp;
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
