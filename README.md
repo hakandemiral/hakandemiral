@@ -6,7 +6,7 @@
 🤼‍♂️ &nbsp;I develop myself to be able to write code that complies with standards and teamwork.\
 🏋️‍♀️ &nbsp;Nothing is done until I find the best performance path, I hate unnecessary use of system resources.\
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/hakandemiral/hakandemiral/master/avento.gif" align="right" width="330"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/hakandemiral/hakandemiral/master/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;My tech stack
 
@@ -40,7 +40,7 @@
 
 ### 🛠 &nbsp;I plan to learn
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=GraphQL)&nbsp;
-![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=Socket.io)&nbsp;
+![Socket.io](https://img.shields.io/badge/-Socket.io-333333?style=flat&logo=Socket.io)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white)&nbsp;
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=GraphQL)&nbsp;
 
