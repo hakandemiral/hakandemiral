@@ -18,7 +18,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=Redux&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)&nbsp;
-![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat&logo=Symfony)&nbsp;
+![Symfony](https://img.shields.io/badge/-Symfony-ffffff?style=flat&logo=Symfony&logoColor=black)&nbsp;
 
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)&nbsp;
