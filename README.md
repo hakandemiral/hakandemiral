@@ -7,8 +7,6 @@
 🤼‍♂️ &nbsp;I develop myself to be able to write code that complies with standards and teamwork.\
 🏋️‍♀️ &nbsp;Nothing is done until I find the best performance path, I hate unnecessary use of system resources.\
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/hakandemiral/hakandemiral/master/Night-Coding.gif" align="right"/>
-
 ### 🛠 &nbsp;My tech stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
