@@ -65,6 +65,7 @@
 <p align="center">
 <a href="https://hakandemiral.com.tr"><img src="https://img.shields.io/badge/-hakandemiral.com.tr-00B964?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/hakan-demiral-160231b6/"><img src="https://img.shields.io/badge/-Hakan%20Demiral-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://hakandemiral.medium.com"><img src="https://img.shields.io/badge/-@hakandemiral-000000?style=flat-square&logo=Medium&logoColor=white"/></a>
 <a href="mailto:iletisim@hakandemiral.com.tr"><img src="https://img.shields.io/badge/-iletisim@hakandemiral.com.tr-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/hakandemiralll/"><img src="https://img.shields.io/badge/-@hakandemiralll-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.com/hakandemirall"><img src="https://img.shields.io/badge/-@hakandemirall-1877F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
