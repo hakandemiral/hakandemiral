@@ -44,7 +44,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 
 ### 🛠 &nbsp;I plan to learn
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=GraphQL)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=GraphQL&logoColor=white)&nbsp;
 ![Socket.io](https://img.shields.io/badge/-Socket.io-333333?style=flat&logo=Socket.io)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white)&nbsp;
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=GraphQL)&nbsp;
