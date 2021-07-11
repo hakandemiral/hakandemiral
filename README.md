@@ -27,6 +27,9 @@
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=SASS&logoColor=white)&nbsp;
 ![Gulp](https://img.shields.io/badge/-Gulp-CF4647?style=flat&logo=Gulp&logoColor=white)&nbsp;
 
+![TestingLibrary](https://img.shields.io/badge/-TestingLibrary-E33332?style=flat&logo=TestingLibrary&logoColor=white)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=Jest&logoColor=white)&nbsp;
+
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
 ![WebStorm](https://img.shields.io/badge/-WebStorm-1496FF?style=flat&logo=WebStorm&logoColor=white)&nbsp;
 ![PhpStorm](https://img.shields.io/badge/-PhpStorm-777BB4?style=flat&logo=PhpStorm&logoColor=white)&nbsp;
