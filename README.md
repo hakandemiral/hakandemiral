@@ -10,14 +10,12 @@
 ### 🛠 &nbsp;My tech stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)&nbsp;
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js&logoColor=white)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=Redux&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)&nbsp;
-![Symfony](https://img.shields.io/badge/-Symfony-ffffff?style=flat&logo=Symfony&logoColor=black)&nbsp;
-
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)&nbsp;
@@ -25,6 +23,9 @@
 ![HTML](https://img.shields.io/badge/-HTML-e34c26?style=flat&logo=HTML5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=wh,te)&nbsp;
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=SASS&logoColor=white)&nbsp;
+![StyledComponents](https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat&logo=styled-components&logoColor=white)&nbsp;
+![Stitches](https://img.shields.io/badge/-Stitches-black?style=flat&logoColor=white)&nbsp;
+
 ![Gulp](https://img.shields.io/badge/-Gulp-CF4647?style=flat&logo=Gulp&logoColor=white)&nbsp;
 
 ![TestingLibrary](https://img.shields.io/badge/-TestingLibrary-E33332?style=flat&logo=TestingLibrary&logoColor=white)&nbsp;
