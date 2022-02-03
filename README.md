@@ -12,7 +12,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js&logoColor=white)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js&logoColor=white)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=Redux&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)&nbsp;
@@ -24,7 +24,7 @@
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=wh,te)&nbsp;
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=SASS&logoColor=white)&nbsp;
 ![StyledComponents](https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat&logo=styled-components&logoColor=white)&nbsp;
-![Stitches](https://img.shields.io/badge/-Stitches-black?style=flat&logoColor=white)&nbsp;
+![Stitches](https://img.shields.io/badge/-Stitches-333333?style=flat&logoColor=white)&nbsp;
 
 ![Gulp](https://img.shields.io/badge/-Gulp-CF4647?style=flat&logo=Gulp&logoColor=white)&nbsp;
 
